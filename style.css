@@ -26,12 +26,13 @@ nav ul li {
 	height: auto;
 	padding: 20px;
 	width: calc(25% - 10px);
+	max-width: 300px; width: 100%;
 	margin: 5px;
 	background-color: lightgrey;
 	box-sizing: border-box;
 	float: left;
 }
 .box img {
-	width: 300px;
+	max-width: 250px; width: 100%;
 	align-items: center;
 }
