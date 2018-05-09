@@ -1,0 +1,13 @@
+.foto {
+	z-index: 1;
+	position: absolute;
+}
+.ribbon {
+	z-index: 2;
+	position: relative;
+	top: 35px;
+	left: 23px;
+}
+.ribbon img {
+	width: 200px;
+}
